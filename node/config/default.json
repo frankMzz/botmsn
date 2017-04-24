@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "9a6c4369bf8be1f0f34d1ea6968fd712",
+    "pageAccessToken": "EAAZARHslYbjcBAEgXrRZCVRaGAs0jtIlWceveLm0Rr2G2wI7pAwZB53ZCE3YmbjJrIpXfkM2gvn2JOm47whFCKnVJApWJvyjW8VTxK1EJiZCLLJxQvT9Uxvep0dUIfDmK0bbi2RPjnfEJdbrNNcHCBZAGODraDT1ZBg0LUloir0QwZDZD",
+    "validationToken": "AppBussinesWebhook",
+    "serverURL": "https://prueba.agenciareforma.com/webs/elnorte/frmendez/webhook"
 }
